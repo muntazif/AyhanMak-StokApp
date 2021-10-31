@@ -1,0 +1,56 @@
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.DataAccess/bin/Debug/Northwind.DataAccess.dll.config
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.DataAccess/bin/Debug/Northwind.DataAccess.dll
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.DataAccess/bin/Debug/Northwind.DataAccess.pdb
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.DataAccess/bin/Debug/EntityFramework.dll
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.DataAccess/bin/Debug/EntityFramework.SqlServer.dll
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.DataAccess/bin/Debug/Northwind.Entities.dll
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.DataAccess/bin/Debug/Northwind.Entities.pdb
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.DataAccess/bin/Debug/EntityFramework.xml
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.DataAccess/bin/Debug/EntityFramework.SqlServer.xml
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.DataAccess/obj/Debug/Northwind.DataAccess.csprojAssemblyReference.cache
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.DataAccess/obj/Debug/Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.DataAccess/obj/Debug/Northwind.DataAccess.csproj.CopyComplete
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.DataAccess/obj/Debug/Northwind.DataAccess.dll
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.DataAccess/obj/Debug/Northwind.DataAccess.pdb
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.DataAccess/bin/Debug/Northwind.DataAccess.dll.config
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.DataAccess/bin/Debug/Northwind.DataAccess.dll
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.DataAccess/bin/Debug/Northwind.DataAccess.pdb
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.DataAccess/bin/Debug/EntityFramework.dll
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.DataAccess/bin/Debug/EntityFramework.SqlServer.dll
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.DataAccess/bin/Debug/Northwind.Entities.dll
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.DataAccess/bin/Debug/Northwind.Entities.pdb
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.DataAccess/bin/Debug/EntityFramework.xml
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.DataAccess/bin/Debug/EntityFramework.SqlServer.xml
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.DataAccess/obj/Debug/Northwind.DataAccess.csprojAssemblyReference.cache
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.DataAccess/obj/Debug/Northwind.DataAccess.csproj.CoreCompileInputs.cache
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.DataAccess/obj/Debug/Northwind.DataAccess.csproj.CopyComplete
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.DataAccess/obj/Debug/Northwind.DataAccess.dll
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.DataAccess/obj/Debug/Northwind.DataAccess.pdb
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.dll.config
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.dll
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.pdb
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.DataAccess\bin\Debug\Northwind.Entities.dll
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.DataAccess\bin\Debug\Northwind.Entities.pdb
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csprojAssemblyReference.cache
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.CopyComplete
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.dll
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.pdb
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csprojAssemblyReference.cache
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.pdb
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.dll.config
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.DataAccess\bin\Debug\Northwind.DataAccess.pdb
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.DataAccess\bin\Debug\AyhanMak.Entities.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.DataAccess\bin\Debug\EntityFramework.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.DataAccess\bin\Debug\AyhanMak.Entities.pdb
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.DataAccess\bin\Debug\EntityFramework.xml
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.DataAccess\obj\Debug\Northwind.DataAccess.csproj.CopyComplete

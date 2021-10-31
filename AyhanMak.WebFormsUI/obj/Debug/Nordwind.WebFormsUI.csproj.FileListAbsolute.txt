@@ -1,0 +1,108 @@
+C:/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/bin/Debug/Nordwind.WebFormsUI.exe.config
+C:/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/bin/Debug/Nordwind.WebFormsUI.exe
+C:/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/bin/Debug/Nordwind.WebFormsUI.pdb
+C:/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/obj/Debug/Nordwind.WebFormsUI.csprojAssemblyReference.cache
+C:/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/obj/Debug/Nordwind.WebFormsUI.Properties.Resources.resources
+C:/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/obj/Debug/Nordwind.WebFormsUI.csproj.GenerateResource.cache
+C:/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/obj/Debug/Nordwind.WebFormsUI.csproj.CoreCompileInputs.cache
+C:/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/obj/Debug/Nordwind.WebFormsUI.exe
+C:/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/obj/Debug/Nordwind.WebFormsUI.pdb
+C:/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/bin/Debug/EntityFramework.dll
+C:/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/bin/Debug/EntityFramework.SqlServer.dll
+C:/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/bin/Debug/Northwind.Business.dll
+C:/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/bin/Debug/Northwind.Entities.dll
+C:/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/bin/Debug/Northwind.DataAccess.dll
+C:/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/bin/Debug/Northwind.Business.pdb
+C:/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/bin/Debug/Northwind.Entities.pdb
+C:/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/bin/Debug/EntityFramework.xml
+C:/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/bin/Debug/EntityFramework.SqlServer.xml
+C:/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/bin/Debug/Northwind.DataAccess.pdb
+C:/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/bin/Debug/Northwind.DataAccess.dll.config
+C:/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/obj/Debug/Nordwind.WebFormsUI.Form1.resources
+C:/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/obj/Debug/Nordwind.WebFormsUI.csproj.CopyComplete
+C:/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/bin/Debug/FluentValidation.dll
+C:/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/bin/Debug/FluentValidation.xml
+C:/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/bin/Debug/Ninject.dll
+C:/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/bin/Debug/Ninject.xml
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/bin/Debug/Nordwind.WebFormsUI.exe.config
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/bin/Debug/Nordwind.WebFormsUI.exe
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/bin/Debug/Nordwind.WebFormsUI.pdb
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/bin/Debug/EntityFramework.dll
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/bin/Debug/EntityFramework.SqlServer.dll
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/bin/Debug/Ninject.dll
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/bin/Debug/Northwind.Business.dll
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/bin/Debug/Northwind.DataAccess.dll
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/bin/Debug/Northwind.Entities.dll
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/bin/Debug/FluentValidation.dll
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/bin/Debug/Northwind.Business.pdb
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/bin/Debug/Northwind.DataAccess.pdb
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/bin/Debug/Northwind.DataAccess.dll.config
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/bin/Debug/Northwind.Entities.pdb
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/bin/Debug/EntityFramework.xml
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/bin/Debug/EntityFramework.SqlServer.xml
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/bin/Debug/Ninject.xml
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/bin/Debug/FluentValidation.xml
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/obj/Debug/Nordwind.WebFormsUI.csprojAssemblyReference.cache
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/obj/Debug/Nordwind.WebFormsUI.Form1.resources
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/obj/Debug/Nordwind.WebFormsUI.Properties.Resources.resources
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/obj/Debug/Nordwind.WebFormsUI.csproj.GenerateResource.cache
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/obj/Debug/Nordwind.WebFormsUI.csproj.CoreCompileInputs.cache
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/obj/Debug/Nordwind.WebFormsUI.csproj.CopyComplete
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/obj/Debug/Nordwind.WebFormsUI.exe
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Nordwind.WebFormsUI/obj/Debug/Nordwind.WebFormsUI.pdb
+C:\Users\husey\source\repos\NLayeredAppDemo\Nordwind.WebFormsUI\bin\Debug\Nordwind.WebFormsUI.exe.config
+C:\Users\husey\source\repos\NLayeredAppDemo\Nordwind.WebFormsUI\bin\Debug\Nordwind.WebFormsUI.exe
+C:\Users\husey\source\repos\NLayeredAppDemo\Nordwind.WebFormsUI\bin\Debug\Nordwind.WebFormsUI.pdb
+C:\Users\husey\source\repos\NLayeredAppDemo\Nordwind.WebFormsUI\bin\Debug\EntityFramework.dll
+C:\Users\husey\source\repos\NLayeredAppDemo\Nordwind.WebFormsUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\husey\source\repos\NLayeredAppDemo\Nordwind.WebFormsUI\bin\Debug\Ninject.dll
+C:\Users\husey\source\repos\NLayeredAppDemo\Nordwind.WebFormsUI\bin\Debug\Northwind.Business.dll
+C:\Users\husey\source\repos\NLayeredAppDemo\Nordwind.WebFormsUI\bin\Debug\Northwind.DataAccess.dll
+C:\Users\husey\source\repos\NLayeredAppDemo\Nordwind.WebFormsUI\bin\Debug\Northwind.Entities.dll
+C:\Users\husey\source\repos\NLayeredAppDemo\Nordwind.WebFormsUI\bin\Debug\Northwind.Business.pdb
+C:\Users\husey\source\repos\NLayeredAppDemo\Nordwind.WebFormsUI\bin\Debug\Northwind.DataAccess.pdb
+C:\Users\husey\source\repos\NLayeredAppDemo\Nordwind.WebFormsUI\bin\Debug\Northwind.DataAccess.dll.config
+C:\Users\husey\source\repos\NLayeredAppDemo\Nordwind.WebFormsUI\bin\Debug\Northwind.Entities.pdb
+C:\Users\husey\source\repos\NLayeredAppDemo\Nordwind.WebFormsUI\bin\Debug\EntityFramework.xml
+C:\Users\husey\source\repos\NLayeredAppDemo\Nordwind.WebFormsUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\husey\source\repos\NLayeredAppDemo\Nordwind.WebFormsUI\bin\Debug\Ninject.xml
+C:\Users\husey\source\repos\NLayeredAppDemo\Nordwind.WebFormsUI\obj\Debug\Nordwind.WebFormsUI.csprojAssemblyReference.cache
+C:\Users\husey\source\repos\NLayeredAppDemo\Nordwind.WebFormsUI\obj\Debug\Nordwind.WebFormsUI.Invoiceses.resources
+C:\Users\husey\source\repos\NLayeredAppDemo\Nordwind.WebFormsUI\obj\Debug\Nordwind.WebFormsUI.Main.resources
+C:\Users\husey\source\repos\NLayeredAppDemo\Nordwind.WebFormsUI\obj\Debug\Nordwind.WebFormsUI.Properties.Resources.resources
+C:\Users\husey\source\repos\NLayeredAppDemo\Nordwind.WebFormsUI\obj\Debug\Nordwind.WebFormsUI.SellProduct.resources
+C:\Users\husey\source\repos\NLayeredAppDemo\Nordwind.WebFormsUI\obj\Debug\Nordwind.WebFormsUI.Settings.resources
+C:\Users\husey\source\repos\NLayeredAppDemo\Nordwind.WebFormsUI\obj\Debug\Nordwind.WebFormsUI.StokUnit.resources
+C:\Users\husey\source\repos\NLayeredAppDemo\Nordwind.WebFormsUI\obj\Debug\Nordwind.WebFormsUI.csproj.GenerateResource.cache
+C:\Users\husey\source\repos\NLayeredAppDemo\Nordwind.WebFormsUI\obj\Debug\Nordwind.WebFormsUI.csproj.CoreCompileInputs.cache
+C:\Users\husey\source\repos\NLayeredAppDemo\Nordwind.WebFormsUI\obj\Debug\Nordwind.WebFormsUI.csproj.CopyComplete
+C:\Users\husey\source\repos\NLayeredAppDemo\Nordwind.WebFormsUI\obj\Debug\Nordwind.WebFormsUI.exe
+C:\Users\husey\source\repos\NLayeredAppDemo\Nordwind.WebFormsUI\obj\Debug\Nordwind.WebFormsUI.pdb
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Nordwind.WebFormsUI\obj\Debug\Nordwind.WebFormsUI.csprojAssemblyReference.cache
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Nordwind.WebFormsUI\obj\Debug\Nordwind.WebFormsUI.Invoiceses.resources
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Nordwind.WebFormsUI\obj\Debug\Nordwind.WebFormsUI.Main.resources
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Nordwind.WebFormsUI\obj\Debug\Nordwind.WebFormsUI.Properties.Resources.resources
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Nordwind.WebFormsUI\obj\Debug\Nordwind.WebFormsUI.SellProduct.resources
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Nordwind.WebFormsUI\obj\Debug\Nordwind.WebFormsUI.Settings.resources
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Nordwind.WebFormsUI\obj\Debug\Nordwind.WebFormsUI.StokUnit.resources
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Nordwind.WebFormsUI\obj\Debug\Nordwind.WebFormsUI.csproj.GenerateResource.cache
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Nordwind.WebFormsUI\obj\Debug\Nordwind.WebFormsUI.csproj.CoreCompileInputs.cache
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Nordwind.WebFormsUI\obj\Debug\Nordwind.WebFormsUI.exe
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Nordwind.WebFormsUI\obj\Debug\Nordwind.WebFormsUI.pdb
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Nordwind.WebFormsUI\bin\Debug\Nordwind.WebFormsUI.exe.config
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Nordwind.WebFormsUI\bin\Debug\Nordwind.WebFormsUI.exe
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Nordwind.WebFormsUI\bin\Debug\Nordwind.WebFormsUI.pdb
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Nordwind.WebFormsUI\bin\Debug\AyhanMak.Entities.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Nordwind.WebFormsUI\bin\Debug\EntityFramework.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Nordwind.WebFormsUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Nordwind.WebFormsUI\bin\Debug\Ninject.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Nordwind.WebFormsUI\bin\Debug\AyhanMak.Entities.pdb
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Nordwind.WebFormsUI\bin\Debug\EntityFramework.xml
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Nordwind.WebFormsUI\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Nordwind.WebFormsUI\bin\Debug\Ninject.xml
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Nordwind.WebFormsUI\obj\Debug\Nordwind.WebFormsUI.csproj.CopyComplete
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Nordwind.WebFormsUI\bin\Debug\AyhanMak.DataAccess.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Nordwind.WebFormsUI\bin\Debug\AyhanMak.DataAccess.pdb
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Nordwind.WebFormsUI\bin\Debug\AyhanMak.DataAccess.dll.config
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Nordwind.WebFormsUI\bin\Debug\AyhanMak.Business.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Nordwind.WebFormsUI\bin\Debug\AyhanMak.Business.pdb

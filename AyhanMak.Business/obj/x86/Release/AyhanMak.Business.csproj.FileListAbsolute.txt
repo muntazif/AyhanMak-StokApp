@@ -1,0 +1,13 @@
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Business\bin\x86\Release\AyhanMak.Business.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Business\bin\x86\Release\AyhanMak.Business.pdb
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Business\bin\x86\Release\AyhanMak.DataAccess.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Business\bin\x86\Release\AyhanMak.Entities.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Business\bin\x86\Release\EntityFramework.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Business\bin\x86\Release\AyhanMak.DataAccess.pdb
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Business\bin\x86\Release\AyhanMak.DataAccess.dll.config
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Business\bin\x86\Release\AyhanMak.Entities.pdb
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Business\bin\x86\Release\EntityFramework.xml
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Business\obj\x86\Release\AyhanMak.Business.csproj.CoreCompileInputs.cache
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Business\obj\x86\Release\AyhanMak.Business.csproj.CopyComplete
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Business\obj\x86\Release\AyhanMak.Business.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Business\obj\x86\Release\AyhanMak.Business.pdb

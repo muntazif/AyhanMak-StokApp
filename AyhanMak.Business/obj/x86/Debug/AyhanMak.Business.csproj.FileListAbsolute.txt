@@ -1,0 +1,14 @@
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Business\bin\x86\Debug\AyhanMak.Business.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Business\bin\x86\Debug\AyhanMak.Business.pdb
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Business\bin\x86\Debug\AyhanMak.DataAccess.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Business\bin\x86\Debug\AyhanMak.Entities.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Business\bin\x86\Debug\EntityFramework.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Business\bin\x86\Debug\AyhanMak.DataAccess.pdb
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Business\bin\x86\Debug\AyhanMak.DataAccess.dll.config
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Business\bin\x86\Debug\AyhanMak.Entities.pdb
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Business\bin\x86\Debug\EntityFramework.xml
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Business\obj\x86\Debug\AyhanMak.Business.csproj.AssemblyReference.cache
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Business\obj\x86\Debug\AyhanMak.Business.csproj.CoreCompileInputs.cache
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Business\obj\x86\Debug\AyhanMak.Business.csproj.CopyComplete
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Business\obj\x86\Debug\AyhanMak.Business.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Business\obj\x86\Debug\AyhanMak.Business.pdb

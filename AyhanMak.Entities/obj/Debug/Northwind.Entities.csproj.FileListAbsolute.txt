@@ -1,0 +1,30 @@
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.Entities/bin/Debug/Northwind.Entities.dll
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.Entities/bin/Debug/Northwind.Entities.pdb
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.Entities/obj/Debug/Northwind.Entities.csprojAssemblyReference.cache
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.Entities/obj/Debug/Northwind.Entities.csproj.CoreCompileInputs.cache
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.Entities/obj/Debug/Northwind.Entities.dll
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.Entities/obj/Debug/Northwind.Entities.pdb
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.Entities/bin/Debug/Northwind.Entities.dll
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.Entities/bin/Debug/Northwind.Entities.pdb
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.Entities/obj/Debug/Northwind.Entities.csprojAssemblyReference.cache
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.Entities/obj/Debug/Northwind.Entities.csproj.CoreCompileInputs.cache
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.Entities/obj/Debug/Northwind.Entities.dll
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.Entities/obj/Debug/Northwind.Entities.pdb
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.Entities\bin\Debug\Northwind.Entities.dll
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.Entities\bin\Debug\Northwind.Entities.pdb
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.Entities\bin\Debug\FluentValidation.dll
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.Entities\bin\Debug\FluentValidation.xml
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.Entities\obj\Debug\Northwind.Entities.csprojAssemblyReference.cache
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.CopyComplete
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.Entities\obj\Debug\Northwind.Entities.dll
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.Entities\obj\Debug\Northwind.Entities.pdb
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.Entities\bin\Debug\AyhanMak.Entities.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.Entities\bin\Debug\AyhanMak.Entities.pdb
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.Entities\bin\Debug\FluentValidation.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.Entities\bin\Debug\FluentValidation.xml
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.Entities\obj\Debug\Northwind.Entities.csprojAssemblyReference.cache
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.CoreCompileInputs.cache
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.Entities\obj\Debug\Northwind.Entities.csproj.CopyComplete
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.Entities\obj\Debug\AyhanMak.Entities.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.Entities\obj\Debug\AyhanMak.Entities.pdb

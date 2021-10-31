@@ -1,0 +1,72 @@
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.Business/bin/Debug/Northwind.Business.dll
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.Business/bin/Debug/Northwind.Business.pdb
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.Business/bin/Debug/Northwind.DataAccess.dll
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.Business/bin/Debug/Northwind.Entities.dll
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.Business/bin/Debug/EntityFramework.dll
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.Business/bin/Debug/Northwind.DataAccess.pdb
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.Business/bin/Debug/Northwind.DataAccess.dll.config
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.Business/bin/Debug/Northwind.Entities.pdb
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.Business/bin/Debug/EntityFramework.xml
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.Business/obj/Debug/Northwind.Business.csprojAssemblyReference.cache
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.Business/obj/Debug/Northwind.Business.csproj.CoreCompileInputs.cache
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.Business/obj/Debug/Northwind.Business.csproj.CopyComplete
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.Business/obj/Debug/Northwind.Business.dll
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.Business/obj/Debug/Northwind.Business.pdb
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.Business/bin/Debug/FluentValidation.dll
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.Business/bin/Debug/FluentValidation.xml
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.Business/bin/Debug/Ninject.dll
+C:/Visual Studio/source/NLayeredAppDemo/Northwind.Business/bin/Debug/Ninject.xml
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.Business/bin/Debug/Northwind.Business.dll
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.Business/bin/Debug/Northwind.Business.pdb
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.Business/bin/Debug/FluentValidation.dll
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.Business/bin/Debug/Ninject.dll
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.Business/bin/Debug/Northwind.DataAccess.dll
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.Business/bin/Debug/Northwind.Entities.dll
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.Business/bin/Debug/EntityFramework.dll
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.Business/bin/Debug/Northwind.DataAccess.pdb
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.Business/bin/Debug/Northwind.DataAccess.dll.config
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.Business/bin/Debug/Northwind.Entities.pdb
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.Business/bin/Debug/FluentValidation.xml
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.Business/bin/Debug/Ninject.xml
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.Business/bin/Debug/EntityFramework.xml
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.Business/obj/Debug/Northwind.Business.csprojAssemblyReference.cache
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.Business/obj/Debug/Northwind.Business.csproj.CoreCompileInputs.cache
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.Business/obj/Debug/Northwind.Business.csproj.CopyComplete
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.Business/obj/Debug/Northwind.Business.dll
+/Users/ibrahimguler/ibrahim/Visual Studio/source/NLayeredAppDemo/Northwind.Business/obj/Debug/Northwind.Business.pdb
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\Northwind.Business.dll
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\Northwind.Business.pdb
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\FluentValidation.dll
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\Ninject.dll
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\Northwind.DataAccess.dll
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\Northwind.Entities.dll
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\EntityFramework.dll
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\Northwind.DataAccess.pdb
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\Northwind.DataAccess.dll.config
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\Northwind.Entities.pdb
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\FluentValidation.xml
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\Ninject.xml
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.Business\bin\Debug\EntityFramework.xml
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.Business\obj\Debug\Northwind.Business.csprojAssemblyReference.cache
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.Business\obj\Debug\Northwind.Business.csproj.CoreCompileInputs.cache
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.Business\obj\Debug\Northwind.Business.csproj.CopyComplete
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.Business\obj\Debug\Northwind.Business.dll
+C:\Users\husey\source\repos\NLayeredAppDemo\Northwind.Business\obj\Debug\Northwind.Business.pdb
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.Business\obj\Debug\Northwind.Business.csprojAssemblyReference.cache
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.Business\obj\Debug\Northwind.Business.csproj.CoreCompileInputs.cache
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.Business\obj\Debug\Northwind.Business.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.Business\obj\Debug\Northwind.Business.pdb
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.Business\bin\Debug\Northwind.Business.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.Business\bin\Debug\Northwind.Business.pdb
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.Business\bin\Debug\AyhanMak.Entities.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.Business\bin\Debug\FluentValidation.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.Business\bin\Debug\Ninject.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.Business\bin\Debug\EntityFramework.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.Business\bin\Debug\AyhanMak.Entities.pdb
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.Business\bin\Debug\FluentValidation.xml
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.Business\bin\Debug\Ninject.xml
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.Business\bin\Debug\EntityFramework.xml
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.Business\obj\Debug\Northwind.Business.csproj.CopyComplete
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.Business\bin\Debug\AyhanMak.DataAccess.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.Business\bin\Debug\AyhanMak.DataAccess.pdb
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\Northwind.Business\bin\Debug\AyhanMak.DataAccess.dll.config

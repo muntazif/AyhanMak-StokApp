@@ -1,0 +1,51 @@
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\bin\Debug\AyhanMak.Entities.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\bin\Debug\AyhanMak.Entities.pdb
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\bin\Debug\FluentValidation.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\bin\Debug\FluentValidation.xml
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\obj\Debug\AyhanMak.Entities.csprojAssemblyReference.cache
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\obj\Debug\AyhanMak.Entities.csproj.CoreCompileInputs.cache
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\obj\Debug\AyhanMak.Entities.csproj.CopyComplete
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\obj\Debug\AyhanMak.Entities.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\obj\Debug\AyhanMak.Entities.pdb
+C:\Users\husey\source\repos\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\bin\Debug\AyhanMak.Entities.dll
+C:\Users\husey\source\repos\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\bin\Debug\AyhanMak.Entities.pdb
+C:\Users\husey\source\repos\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\obj\Debug\AyhanMak.Entities.csproj.CoreCompileInputs.cache
+C:\Users\husey\source\repos\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\obj\Debug\AyhanMak.Entities.dll
+C:\Users\husey\source\repos\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\obj\Debug\AyhanMak.Entities.pdb
+C:\Users\husey\OneDrive\Masaüstü\ayhanmak yeni form\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\bin\Debug\AyhanMak.Entities.dll
+C:\Users\husey\OneDrive\Masaüstü\ayhanmak yeni form\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\bin\Debug\AyhanMak.Entities.pdb
+C:\Users\husey\OneDrive\Masaüstü\ayhanmak yeni form\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\obj\Debug\AyhanMak.Entities.csproj.CoreCompileInputs.cache
+C:\Users\husey\OneDrive\Masaüstü\ayhanmak yeni form\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\obj\Debug\AyhanMak.Entities.dll
+C:\Users\husey\OneDrive\Masaüstü\ayhanmak yeni form\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\obj\Debug\AyhanMak.Entities.pdb
+C:\Users\husey\OneDrive\Masaüstü\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\bin\Debug\AyhanMak.Entities.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\bin\Debug\AyhanMak.Entities.pdb
+C:\Users\husey\OneDrive\Masaüstü\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\obj\Debug\AyhanMak.Entities.csproj.CoreCompileInputs.cache
+C:\Users\husey\OneDrive\Masaüstü\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\obj\Debug\AyhanMak.Entities.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\obj\Debug\AyhanMak.Entities.pdb
+C:\Users\husey\OneDrive\Masaüstü\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\obj\Debug\AyhanMak.Entities.csproj.AssemblyReference.cache
+C:\Users\husey\OneDrive\Masaüstü\Yeni klasör (2)\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\bin\Debug\AyhanMak.Entities.dll
+C:\Users\husey\OneDrive\Masaüstü\Yeni klasör (2)\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\bin\Debug\AyhanMak.Entities.pdb
+C:\Users\husey\OneDrive\Masaüstü\Yeni klasör (2)\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\obj\Debug\AyhanMak.Entities.csproj.CoreCompileInputs.cache
+C:\Users\husey\OneDrive\Masaüstü\Yeni klasör (2)\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\obj\Debug\AyhanMak.Entities.dll
+C:\Users\husey\OneDrive\Masaüstü\Yeni klasör (2)\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\obj\Debug\AyhanMak.Entities.pdb
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak - Kopya\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\bin\Debug\AyhanMak.Entities.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak - Kopya\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\bin\Debug\AyhanMak.Entities.pdb
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak - Kopya\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\obj\Debug\AyhanMak.Entities.csproj.CoreCompileInputs.cache
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak - Kopya\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\obj\Debug\AyhanMak.Entities.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak - Kopya\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\obj\Debug\AyhanMak.Entities.pdb
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\bin\Debug\AyhanMak.Entities.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\bin\Debug\AyhanMak.Entities.pdb
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\obj\Debug\AyhanMak.Entities.csproj.CoreCompileInputs.cache
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\obj\Debug\AyhanMak.Entities.dll
+C:\Users\husey\OneDrive\Masaüstü\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\obj\Debug\AyhanMak.Entities.pdb
+\\Mac\Home\Desktop\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\bin\Debug\AyhanMak.Entities.dll
+\\Mac\Home\Desktop\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\bin\Debug\AyhanMak.Entities.pdb
+\\Mac\Home\Desktop\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\obj\Debug\AyhanMak.Entities.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\obj\Debug\AyhanMak.Entities.dll
+\\Mac\Home\Desktop\AyhanMak\AyhaMak\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\obj\Debug\AyhanMak.Entities.pdb
+\\Mac\Home\Desktop\AyhaMak 2.0\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\bin\Debug\AyhanMak.Entities.dll
+\\Mac\Home\Desktop\AyhaMak 2.0\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\bin\Debug\AyhanMak.Entities.pdb
+\\Mac\Home\Desktop\AyhaMak 2.0\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\obj\Debug\AyhanMak.Entities.csproj.AssemblyReference.cache
+\\Mac\Home\Desktop\AyhaMak 2.0\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\obj\Debug\AyhanMak.Entities.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\AyhaMak 2.0\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\obj\Debug\AyhanMak.Entities.dll
+\\Mac\Home\Desktop\AyhaMak 2.0\AyhanMakStockApp Version 1.0.0\AyhanMakStockApp\AyhanMak.Entities\obj\Debug\AyhanMak.Entities.pdb
